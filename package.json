@@ -1,0 +1,19 @@
+{
+  "name": "pagina-web-prueba",
+  "version": "1.0.0",
+  "description": "Esto es una web que estoy haciendo de prueba para ver como se sube un proyecto a github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpafer/proyecto-prueba-de-web-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpafer/proyecto-prueba-de-web-/issues"
+  },
+  "homepage": "https://github.com/arpafer/proyecto-prueba-de-web-#readme"
+}
